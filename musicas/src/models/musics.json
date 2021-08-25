@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "Não passa vontade",
+        "duration": "04:40",
+        "launchYear": "2020",
+        "favorited": true,
+        "artists": [
+            "Anavitória",
+            "Duda Beat"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Scar Tissue",
+        "duration": "03:41",
+        "launchYear": "1999",
+        "favorited": true,
+        "artists": [
+            "Red Hot Chili Peppers"
+            
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Irreplaceable",
+        "duration": "04:13",
+        "launchYear": "2006",
+        "favorited": true,
+        "artists": [
+            "Beyoncé"
+    
+        ]
+    }
+]
